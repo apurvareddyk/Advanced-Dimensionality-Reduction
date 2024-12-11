@@ -35,7 +35,7 @@ The following dimensionality reduction techniques are included:
    Includes techniques applied on both image and tabular datasets, including medical datasets.  
    [Colab Link](https://colab.research.google.com/drive/1nZWFoVYl4rFF9pt_q-p7G7YI8ZeaptY7?usp=sharing)
 
-Video [link](https://www.youtube.com/watch?v=QIQZEQ6eVLo&list=PLGHkLcp2I_S99VL95LxofYaOPgjBVpJc_)
+Video [link](https://www.youtube.com/playlist?list=PLGHkLcp2I_S-q1aVn0yxf98A4lO_ey6sZ)
 
 ## **Datasets Used**
 
